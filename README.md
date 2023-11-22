@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yunusbalikci&label=Profile%20views&color=0e75b6&style=flat" alt="yunusbalikci" /> </p>
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **dev.yunusbalikci@gmail.com**
 
